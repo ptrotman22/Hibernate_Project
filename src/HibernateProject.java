@@ -13,6 +13,7 @@ public class HibernateProject {
 
         //create a session
         Session session = factory.getCurrentSession();
-        
+
+
     }
 }
